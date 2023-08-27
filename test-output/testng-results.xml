@@ -2,40 +2,40 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-21T16:34:05 MDT" name="Default suite" finished-at="2023-08-21T16:34:11 MDT" duration-ms="6232">
+  <suite started-at="2023-08-27T16:34:49 MDT" name="Suite" finished-at="2023-08-27T16:34:53 MDT" duration-ms="4356">
     <groups>
     </groups>
-    <test started-at="2023-08-21T16:34:05 MDT" name="Default test" finished-at="2023-08-21T16:34:11 MDT" duration-ms="6232">
+    <test started-at="2023-08-27T16:34:49 MDT" name="Test" finished-at="2023-08-27T16:34:53 MDT" duration-ms="4356">
       <class name="servusTest.TestClass">
-        <test-method signature="Test1()[pri:0, instance:servusTest.TestClass@340b9973]" started-at="2023-08-21T16:34:05 MDT" name="Test1" finished-at="2023-08-21T16:34:05 MDT" duration-ms="272" status="PASS">
+        <test-method signature="Test1()[pri:0, instance:servusTest.TestClass@4a194c39]" started-at="2023-08-27T16:34:49 MDT" name="Test1" finished-at="2023-08-27T16:34:49 MDT" duration-ms="296" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method signature="Test2()[pri:0, instance:servusTest.TestClass@340b9973]" started-at="2023-08-21T16:34:05 MDT" name="Test2" finished-at="2023-08-21T16:34:06 MDT" duration-ms="76" status="PASS">
+        <test-method signature="Test2()[pri:0, instance:servusTest.TestClass@4a194c39]" started-at="2023-08-27T16:34:49 MDT" name="Test2" finished-at="2023-08-27T16:34:49 MDT" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2 -->
-        <test-method signature="Test3()[pri:0, instance:servusTest.TestClass@340b9973]" started-at="2023-08-21T16:34:06 MDT" name="Test3" finished-at="2023-08-21T16:34:06 MDT" duration-ms="120" status="PASS">
+        <test-method signature="Test3()[pri:0, instance:servusTest.TestClass@4a194c39]" started-at="2023-08-27T16:34:49 MDT" name="Test3" finished-at="2023-08-27T16:34:50 MDT" duration-ms="126" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test3 -->
-        <test-method signature="Test4()[pri:0, instance:servusTest.TestClass@340b9973]" started-at="2023-08-21T16:34:06 MDT" name="Test4" finished-at="2023-08-21T16:34:06 MDT" duration-ms="80" status="PASS">
+        <test-method signature="Test4()[pri:0, instance:servusTest.TestClass@4a194c39]" started-at="2023-08-27T16:34:50 MDT" name="Test4" finished-at="2023-08-27T16:34:50 MDT" duration-ms="104" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test4 -->
-        <test-method signature="Test5()[pri:0, instance:servusTest.TestClass@340b9973]" started-at="2023-08-21T16:34:06 MDT" name="Test5" finished-at="2023-08-21T16:34:11 MDT" duration-ms="5513" status="PASS">
+        <test-method signature="Test5()[pri:0, instance:servusTest.TestClass@4a194c39]" started-at="2023-08-27T16:34:50 MDT" name="Test5" finished-at="2023-08-27T16:34:53 MDT" duration-ms="3452" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test5 -->
-        <test-method signature="Test6()[pri:0, instance:servusTest.TestClass@340b9973]" started-at="2023-08-21T16:34:11 MDT" name="Test6" finished-at="2023-08-21T16:34:11 MDT" duration-ms="60" status="PASS">
+        <test-method signature="Test6()[pri:0, instance:servusTest.TestClass@4a194c39]" started-at="2023-08-27T16:34:53 MDT" name="Test6" finished-at="2023-08-27T16:34:53 MDT" duration-ms="69" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test6 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:servusTest.TestClass@340b9973]" started-at="2023-08-21T16:34:11 MDT" name="tearDown" finished-at="2023-08-21T16:34:11 MDT" duration-ms="74" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:servusTest.TestClass@4a194c39]" started-at="2023-08-27T16:34:53 MDT" name="tearDown" finished-at="2023-08-27T16:34:53 MDT" duration-ms="150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- servusTest.TestClass -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
